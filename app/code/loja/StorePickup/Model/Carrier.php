@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\StorePickup\Model;
+namespace loja\StorePickup\Model;
 
 use Magento\Quote\Model\Quote\Address\RateRequest;
 use Magento\Shipping\Model\Carrier\AbstractCarrier;
