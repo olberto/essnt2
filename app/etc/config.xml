@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/config.xsd">
+    <default>
+        <carriers>
+            <storepickup>
+                <active>1</active>
+                <title>Retira na Loja</title>
+                <name>Retira na Loja</name>
+                <sallowspecific>0</sallowspecific>
+            </storepickup>
+        </carriers>
+    </default>
+</config>
